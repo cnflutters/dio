@@ -681,11 +681,9 @@ dio.get(url2, cancelToken: token);
 token.cancel("cancelled");
 ```
 
-There is a complete example [here](https://github.com/flutterchina/dio/blob/master/example/cancel_request.dart).
 
-## Copyright & License
 
-This open source project authorized by https://flutterchina.club , and the license is MIT.
+
 
 ## Features and bugs
 
@@ -693,8 +691,3 @@ Please file feature requests and bugs at the [issue tracker][tracker].
 
 [tracker]: https://github.com/flutterchina/dio/issues
 
-## Donate
-
-Buy a cup of coffee for me (Scan by wechat)：
-
-![](https://cdn.jsdelivr.net/gh/flutterchina/flutter-in-action@1.0.3/docs/imgs/pay.jpeg)
